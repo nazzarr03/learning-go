@@ -1,4 +1,4 @@
-package main
+package random_password_generator
 
 import (
 	"fmt"

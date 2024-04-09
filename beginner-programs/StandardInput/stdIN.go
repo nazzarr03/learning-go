@@ -1,4 +1,4 @@
-package StandardInput
+package standard_input
 
 import (
 	"bufio"

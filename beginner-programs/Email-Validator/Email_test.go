@@ -1,4 +1,4 @@
-package Validator
+package email_validator
 
 import (
 	"testing"
